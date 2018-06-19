@@ -68,3 +68,4 @@ exports.easing = {
 ## License
 
 MIT
+luoyimu
